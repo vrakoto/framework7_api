@@ -1,5 +1,5 @@
 <?php
-$dsn = "mysql:host=localhost;dbname=sts_todolist;port=4306";
+$dsn = "mysql:host=localhost;dbname=sts_todolist";
 $user = "root";
 $password = "";
 
